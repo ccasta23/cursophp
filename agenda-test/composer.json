@@ -1,0 +1,17 @@
+{
+    "name": "ccasta23/agenda-test",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Agenda\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carlos Castañeda",
+            "email": "carloscastaneda2323@gmail.com"
+        }
+    ]
+}
